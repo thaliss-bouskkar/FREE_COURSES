@@ -1,17 +1,17 @@
-# 🌐 Free Courses & Coupons Hub — Premium UI
+# 🌐 Free Courses & Coupons Hub — Premium React UI
 
-A sleek, premium, and fully responsive "Link-in-Bio" platform crafted with a high-end SaaS aesthetic. This front-end application aggregates educational resources, free IT courses, active Telegram channels, and premium coupons into one clean, high-performance interface.
+A sleek, premium, and fully responsive "Link-in-Bio" platform built with **React** and **Tailwind CSS**. This application features a high-end dark SaaS aesthetic, designed to aggregate educational resources, free IT courses, Telegram channels, and premium coupons into one fast, interactive user interface.
 
 ## ✨ Features
 
-- **Premium Dark UI:** Designed with smooth dark backgrounds, crisp typography, and high-end accent glows.
-- **Dynamic Filtering:** Clean tab navigation switching between All Links, Websites, and Telegram channels.
-- **Featured Promotion Grid:** Beautiful cards highlighting hot items (like "100% Free Udemy Premium Coupons").
-- **Fully Responsive:** Micro-optimized for mobile layouts, ensuring an outstanding user experience on all devices.
-- **Performance First:** Lightweight front-end build deployed globally via modern CDN hosting.
+- **Component-Driven Architecture:** Scalable and reusable UI components built with React.
+- **Dynamic Tab Filtering:** Smooth state management to switch between All Links, Websites, and Telegram channels instantly.
+- **Premium Dark Aesthetic:** Designed with subtle gradients, crisp typography, and modern glowing accents.
+- **Featured Promotion Banner:** Highlighted sections for hot items like "100% Free Udemy Premium Coupons".
+- **Mobile-First Responsiveness:** Micro-optimized for mobile layouts, offering a native-app-like experience.
 
 ## 🛠️ Built With
 
-- **HTML5 & Semantic Markup**
-- **Tailwind CSS** (Custom theme configuration, premium gradients, and shadows)
-- **JavaScript** (For dynamic tab switches and interactive states)
+- **React.js** (Functional Components & Hooks)
+- **Tailwind CSS** (Custom utilities, dark theme configuration, and responsive design)
+- **Vite / Create React App** (Fast development and optimized production build)
