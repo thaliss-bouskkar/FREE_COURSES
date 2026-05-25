@@ -9,9 +9,11 @@ A sleek, premium, and fully responsive "Link-in-Bio" platform built with **React
 - **Premium Dark Aesthetic:** Designed with subtle gradients, crisp typography, and modern glowing accents.
 - **Featured Promotion Banner:** Highlighted sections for hot items like "100% Free Udemy Premium Coupons".
 - **Mobile-First Responsiveness:** Micro-optimized for mobile layouts, offering a native-app-like experience.
+- **YouTube Integration:** Embedded Coursera free access tutorial video guide.
+- **Dark / Light Mode:** One-click theme toggle with smooth transitions.
 
 ## 🛠️ Built With
 
 - **React.js** (Functional Components & Hooks)
-- **Tailwind CSS** (Custom utilities, dark theme configuration, and responsive design)
-- **Vite / Create React App** (Fast development and optimized production build)
+- **Tailwind CSS v4** (Custom theme, dark mode, responsive design)
+- **Vite** (Fast development and optimized production build)
